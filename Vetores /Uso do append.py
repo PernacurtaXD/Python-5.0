@@ -18,5 +18,7 @@ vetor.append(5)
 
 vetor.append(6)
 
+vetor.append(7)
+
 
 print(vetor)
