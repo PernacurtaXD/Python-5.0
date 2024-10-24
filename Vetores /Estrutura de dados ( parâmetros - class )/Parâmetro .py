@@ -24,7 +24,7 @@ for i in range (QUANT):
 os.system("cls || clear")
 for i, usuario in enumerate (usuarios):
   
-    print(f"{i + 1}ª Usuário")
+    print(f"\n{i + 1}ª Usuário")
     print(f"Nome: {usuario.nome}")
-    print(f"Idade:{usuario.idade}")
+    print(f"Idade: {usuario.idade}")
     
