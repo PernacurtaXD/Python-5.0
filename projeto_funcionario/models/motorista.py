@@ -1,6 +1,6 @@
 from models.enum.sexo import Sexo
 from models.enum.setor import Setor
-# from models.enum.unidadefederativa import UnidadeFederativa
+from models.enum.unidadefederativa import UnidadeFederativa
 from models.endereco import Endereco
 from models.funcionario import Funcionario
 
